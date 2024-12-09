@@ -1,0 +1,9 @@
+.banner{
+    position: relative;
+    background-image: url(https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_640.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+
+}
