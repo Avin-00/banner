@@ -3,7 +3,7 @@
     background-image: url(./6399a4d27711a5ad2c9bf5cd_ben-sweet-2LowviVHZ-E-unsplash-1.jpeg);
     background-size: cover;
     background-position: center;
-    height: 400px;
+    height: 600px;
     color: white;
     
 
@@ -27,4 +27,12 @@ align-items: center;
 }
 .nav_bar a:hover{
     text-decoration: underline;
+}
+.banner_heading{
+    position: absolute;
+    font-size: 100px;
+    font-weight: lighter;
+    top: 50%;
+    left: 60%;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0, 0.7);
 }
