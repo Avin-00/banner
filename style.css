@@ -1,9 +1,29 @@
 .banner{
     position: relative;
-    background-image: url(https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_640.jpg);
+    background-image: url(./6399a4d27711a5ad2c9bf5cd_ben-sweet-2LowviVHZ-E-unsplash-1.jpeg);
     background-size: cover;
     background-position: center;
     height: 400px;
     color: white;
+    
 
+}
+.nav_bar{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: rgb(73, 70, 70);
+    padding: 10px 20px;
+    display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.nav_bar a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+.nav_bar a:hover{
+    text-decoration: underline;
 }
